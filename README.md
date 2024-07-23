@@ -71,22 +71,26 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-https://github.com/user-attachments/assets/edf5f9b1-1d8a-4410-9ade-323ac10000ae
+
+
+
+https://github.com/user-attachments/assets/6fd52a1f-be7b-4489-818d-e493b97abae7
+
 
 
 
 Screenshot of the project 
 
-![Capture](https://github.com/user-attachments/assets/14ff1f03-9d91-42a1-842b-96d33fe9d73a)
-![Capture 1](https://github.com/user-attachments/assets/5ba1c9b1-94aa-4c70-aaf9-a9209ad710a2)
+![Capture](https://github.com/user-attachments/assets/a37057d8-bca2-4940-9866-8edeedc78cbc)
+![Capture 1](https://github.com/user-attachments/assets/90c557e8-a842-4ebd-9c64-470c469dd191)
 
-![3](https://github.com/user-attachments/assets/a0caa7d9-7574-4c50-b13a-3a5281589bc9)
-![4](https://github.com/user-attachments/assets/11e3f010-0bce-44bb-acf9-3d32fde02905)
-
+![3](https://github.com/user-attachments/assets/b1871946-2aff-458e-9250-131d43c5ff5a)
+![4](https://github.com/user-attachments/assets/7278d275-47d8-48ee-9cf8-0da97dee9570)
 
 Using the Gpt Recommendation Engine 
-![5](https://github.com/user-attachments/assets/22637fe3-d889-41cc-afa1-a247ebdab268)
-![6](https://github.com/user-attachments/assets/d1f729a6-de6f-4387-a949-4cce91f14b87)
 
 
 
+![5](https://github.com/user-attachments/assets/bebba48f-45a2-4268-bf9b-43fddd99ff7b)
+
+![6](https://github.com/user-attachments/assets/7587abc0-2c41-4bb6-b403-78dd72261640)
