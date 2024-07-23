@@ -1,4 +1,4 @@
-export const NETFIX_LOGO = ;
+export const NETFIX_LOGO = "https://i.postimg.cc/4NDRXJ52/movieshow-high-resolution-logo-1-removebg-preview.png";
 
 export const PHOTO_AVATAR =  "https://i.pinimg.com/474x/5b/50/e7/5b50e75d07c726d36f397f6359098f58.jpg";
 
