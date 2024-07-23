@@ -71,33 +71,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-# Netflix app
--Create React App
--Configured Tailwind CSS and inst alled it succesfully by applying the commands.
--Header
--Routing of our App
--Login form
--Sign Up form 
--Form Validation
--useRef Hook
--Form Validation
--Firebase setup
--Deploying our app to production
--Create SignUp user account 
--Created Redux Store with userSlice
+https://github.com/user-attachments/assets/edf5f9b1-1d8a-4410-9ade-323ac10000ae
 
-# Features
--Login/SignUp page
- -Sign In / Sign Up Form
- -redirect to browse page
--Browse(after authentication)
- -Header
- -Main movie
-  -Trailer in bg
-  -Title and Description
-  -Movie Suggestions
-   - MovieLists * N
 
--Netflix GPT
- -search bar
- -movie suggestions
+
+Screenshot of the project 
+
+![Capture](https://github.com/user-attachments/assets/14ff1f03-9d91-42a1-842b-96d33fe9d73a)
+![Capture 1](https://github.com/user-attachments/assets/5ba1c9b1-94aa-4c70-aaf9-a9209ad710a2)
+
+![3](https://github.com/user-attachments/assets/a0caa7d9-7574-4c50-b13a-3a5281589bc9)
+![4](https://github.com/user-attachments/assets/11e3f010-0bce-44bb-acf9-3d32fde02905)
+
+
+Using the Gpt Recommendation Engine 
+![5](https://github.com/user-attachments/assets/22637fe3-d889-41cc-afa1-a247ebdab268)
+![6](https://github.com/user-attachments/assets/d1f729a6-de6f-4387-a949-4cce91f14b87)
+
+
+
