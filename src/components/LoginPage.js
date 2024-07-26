@@ -98,6 +98,7 @@ const LoginPage = () => {
         {!isSignInForm && <input ref={name} type="text" placeholder="Your Name" className="p-4 m-3 w-full bg-gray-700 rounded-lg text-white"></input>}
         <input ref={email} type="text" placeholder="Email Address" className="p-4 m-3 w-full bg-gray-700 rounded-lg text-white"></input>
         <input ref={password} type="password" placeholder="Password" className="p-4 m-3 w-full  bg-gray-700 rounded-lg   text-white"></input>
+        {!isSignInForm && <p className='text-white text-sm ml-4'>Note: Password must be at least 8 characters and contain at least one upper case letter and a digit</p>}
         <p className='text-red-500 mx-4 font-semibold'>{errorMessage}</p>
         <button className="p-3 m-3 bg-red-700 rounded-lg w-full font-semibold text-white" onClick={handleButtonClick}>{isSignInForm ? "Sign In" : "Sign Up"}</button>
 
